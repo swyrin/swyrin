@@ -8,7 +8,7 @@ I sometimes play games too, my favorite games are Rainbow Six Siege, Guardian Ta
 
 # Things I am working on
 1. [Nekos.Net](https://github.com/Nekos-life/Nekos.Net): A C# library for interacting with _cute nekos_
-2. [The Discord Bot](https://github.com/Swyreee/badly-made-discord-bot): Just a discord bot.
+2. [Nalia](https://github.com/Swyreee/badly-made-discord-bot): Just a discord bot.
 3. My own optimizations for [Unreal Engine](https://www.unrealengine.com) for my own "stuffs"
 
 # To-do
