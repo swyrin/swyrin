@@ -11,9 +11,5 @@ Below is a list of some games that I play, add me if you want:
 - Arknights - Swyrin#7301
 - osu! - [Swyrin](https://osu.ppy.sh/users/13101472)
 
-
-# Things I am working on
-- [Lilia](https://github.com/Swyreee/Lilia): Maybe a good Discord bot, also my attempt at learning C# and learning how to *properly* use Git
-
 # To-do
 - ~~A trip to every place of Viet Nam~~
