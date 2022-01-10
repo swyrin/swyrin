@@ -15,8 +15,7 @@ Below is a list of some games that I play, add me if you want:
   - Under rewriting phase
 - [`arknights-gacha`](https://github.com/Swyreee/arknights-gacha) - A command line tool for simulating Arknights gacha.
 - [`competitive-programming`](https://github.com/Swyreee/competitive-programming) - Just my submissions for online competitive programming sites. Might include local sites.
+  - :thinking:
 
 # TODOs
-- [ ] A trip to every places of Vietnam
-- [ ] Get a girlfriend
-- [ ] At least get to Asia region of ACM-ICPC
+- [ ] Get good at least one Infomatics Olympiad
