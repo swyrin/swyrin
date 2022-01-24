@@ -5,8 +5,8 @@ I once had an GitHub account named [swyrin](https://github.com/swyrin) but I for
 
 # Sometimes a gamer
 Beside being a programmer, I play games too. I mostly online on Discord (Swyrin#7193) so if you want to hit me up for games, feel free to DM me.
-Below is a list of some games that I play, add me if you want:
-- Tom Clancy's Rainbow Six: Siege - GrenadeMagnet
+Below is a list of games that I often play, add me if you want:
+- Tom Clancy's Rainbow Six: Siege - Swyrin
 - Arknights - Swyrin#7301
 - osu! - [Swyrin](https://osu.ppy.sh/users/13101472)
 
