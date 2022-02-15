@@ -1,18 +1,46 @@
-# Introduction 👋
-Hi, I am Swyrin and I am a student living in HCMC, Viet Nam. I mainly code at C# because I love its static typings and LINQ, but sometimes I use JS, Python, C++ according to my mood.
+# 👋 Introduction
 
-I once had an GitHub account named [swyrin](https://github.com/swyrin) but I forgot the password for it. Too bad, right?
+```c#
+/* 
+  Short information about me
+*/
+const string NICKNAME = "Swyrin";
+const string REALNAME = "Tien Dat Pham";
+const string BIRTHDAY = "31/10/null";
+const Gender GENDER = Gender.Male;
+const Country NATIONALITY = Country.Vietnam;
+const string OCCUPATION = "Student in CS";
+const string HOME_PLACE = "Ho Chi Minh";
 
-# Sometimes a gamer
+/*
+  Self-explanatory 
+*/ 
+const List<string> USED_LANGUAGES = { "C#", "C++", "JavaScript", "Python" };
+const bool IS_COMPETIVE_PROGRAMMER = true;
+```
+
+# 🎮 Also a gamer
+
 Beside being a programmer, I play games too. I mostly online on Discord (Swyrin#7193) so if you want to hit me up for games, feel free to DM me.
-Below is a list of games that I often play, add me if you want:
-- Tom Clancy's Rainbow Six: Siege - Swyrin
-- Arknights - Swyrin#7301
-- osu! - [Swyrin](https://osu.ppy.sh/users/13101472)
+Below is a list of games that I play regularly:
+- `Tom Clancy's Rainbow Six: Siege` - [Swyrin](https://ubisoftconnect.com/en-US/profile/Swyrin/)
+- `Arknights (EN)` - **Swyrin#???**
+- `osu!` - [Swyrin](https://osu.ppy.sh/users/13101472)
 
-# Projects I am "actively" working on
-- [`Lilia`](https://github.com/Swyreee/Lilia) - A Discord bot made with convenient and very bad code in mind.
-- [`arknights-gacha`](https://github.com/Swyreee/arknights-gacha) - A command line tool for simulating Arknights gacha.
+# 🧑‍💻 Projects
 
-# TODON'Ts
-- [ ] Get good at least one Infomatics Olympiad
+- ❤️ Active
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=Helya&theme=tokyonight)]()
+
+- ☠️ No longer in maintenance
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nekos-life&repo=Nekos.Net&show_owner=true&theme=tokyonight)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=arknights-gacha&theme=tokyonight)]()
+
+# 📊 Statistics
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swyreee&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swyreee&layout=compact&theme=tokyonight)]()
+
