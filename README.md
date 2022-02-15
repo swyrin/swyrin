@@ -29,18 +29,17 @@ Below is a list of games that I play regularly:
 
 # 🧑‍💻 Projects
 
-- ❤️ Active
+- ❤️ Active:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=Helya&theme=tokyonight)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=Helya&theme=tokyonight)](https://github.com/Swyreee/Helya)
 
-- ☠️ No longer in maintenance
+- ☠️ No longer in maintenance:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nekos-life&repo=Nekos.Net&show_owner=true&theme=tokyonight)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=arknights-gacha&theme=tokyonight)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nekos-life&repo=Nekos.Net&show_owner=true&theme=tokyonight)](https://github.com/Nekos-life/Nekos.Net)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=arknights-gacha&theme=tokyonight)](https://github.com/Swyreee/arknights-gacha)
 
 # 📊 Statistics
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swyreee&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swyreee&layout=compact&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swyreee&langs_count=3&theme=tokyonight)]()
 
