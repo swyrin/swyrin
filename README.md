@@ -31,7 +31,7 @@ Below is a list of games that I play regularly:
 
 - ❤️ Active:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=Helya&theme=tokyonight)](https://github.com/Swyreee/Helya)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=Lilia&theme=tokyonight)](https://github.com/Swyreee/Lilia)
 
 - ☠️ No longer in maintenance:
 
