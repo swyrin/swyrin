@@ -31,11 +31,11 @@ Below is a list of games that I play regularly:
 
 - ❤️ Active:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=Lilia&theme=tokyonight)](https://github.com/Swyreee/Lilia)
+[![Lilia](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=Lilia&theme=tokyonight)](https://github.com/Swyreee/Lilia)
+[![Nekos.Net](https://github-readme-stats.vercel.app/api/pin/?username=Nekos-life&repo=Nekos.Net&show_owner=true&theme=tokyonight)](https://github.com/Nekos-life/Nekos.Net)
 
 - ☠️ No longer in maintenance:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nekos-life&repo=Nekos.Net&show_owner=true&theme=tokyonight)](https://github.com/Nekos-life/Nekos.Net)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=arknights-gacha&theme=tokyonight)](https://github.com/Swyreee/arknights-gacha)
 
 # 📊 Statistics
