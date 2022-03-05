@@ -34,6 +34,5 @@ Below is a list of games that I play regularly:
 
 # 📊 Statistics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swyreee&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swyreee&langs_count=3&theme=tokyonight)]()
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swyreee&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Swyreee)
 
