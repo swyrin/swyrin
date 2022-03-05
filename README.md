@@ -24,19 +24,13 @@ const bool IS_COMPETIVE_PROGRAMMER = true;
 Beside being a programmer, I play games too. I mostly online on Discord (Swyrin#7193) so if you want to hit me up for games, feel free to DM me.
 Below is a list of games that I play regularly:
 - `Tom Clancy's Rainbow Six: Siege` - [Swyrin](https://ubisoftconnect.com/en-US/profile/Swyrin/)
-- `Arknights (EN)` - **Swyrin#???**
+- `Arknights (EN)` - **Swyrin#3658**
 - `osu!` - [Swyrin](https://osu.ppy.sh/users/13101472)
 
-# 🧑‍💻 Projects
+# ❤️🧑‍💻 Active Projects
 
-- ❤️ Active:
-
-[![Lilia](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=Lilia&theme=tokyonight)](https://github.com/Swyreee/Lilia)
+[![Lilia](https://github-readme-stats.vercel.app/api/pin/?username=Lilia-Workshop&repo=Lilia&theme=tokyonight)](https://github.com/Lilia-Workshop/Lilia)
 [![Nekos.Net](https://github-readme-stats.vercel.app/api/pin/?username=Nekos-life&repo=Nekos.Net&show_owner=true&theme=tokyonight)](https://github.com/Nekos-life/Nekos.Net)
-
-- ☠️ No longer in maintenance:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=arknights-gacha&theme=tokyonight)](https://github.com/Swyreee/arknights-gacha)
 
 # 📊 Statistics
 
