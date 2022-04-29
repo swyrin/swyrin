@@ -9,7 +9,6 @@ const string REALNAME = "Tien Dat Pham";
 const string BIRTHDAY = "31/10/null";
 const Gender GENDER = Gender.Male;
 const Country NATIONALITY = Country.Vietnam;
-const string OCCUPATION = "Student in CS";
 const string HOME_PLACE = "Ho Chi Minh";
 
 /*
