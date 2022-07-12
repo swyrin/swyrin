@@ -29,7 +29,7 @@ Below is a list of games that I play regularly:
 
 # ❤️🧑‍💻 Active Projects
 
-[![Lilia](https://github-readme-stats.vercel.app/api/pin/?username=Lilia-Workshop&repo=Lilia&theme=tokyonight)](https://github.com/Lilia-Workshop/Lilia)
+[![Namess](https://github-readme-stats.vercel.app/api/pin/?username=nameless-on-discord&repo=nameless&theme=tokyonight)](https://github.com/nameless-on-discord/nameless)
 [![Nekos.Net](https://github-readme-stats.vercel.app/api/pin/?username=Nekos-life&repo=Nekos.Net&show_owner=true&theme=tokyonight)](https://github.com/Nekos-life/Nekos.Net)
 
 # 📊 Statistics
