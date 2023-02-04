@@ -14,7 +14,7 @@ const string HOME_PLACE = "Ho Chi Minh";
 /*
   Self-explanatory 
 */ 
-const List<string> LANGUAGES = { "C#", "C++", "JavaScript", "Python" };
+const List<string> LANGUAGES = { "C#", "C++", "JavaScript", "Python", "Rust" };
 const List<string> TECH_STACKS = { ".NET", "EFCore", "PostgreSQL", "Flask", "ExpressJS", "Boost", "CMake" };
 const bool IS_COMPETIVE_PROGRAMMER = true;
 ```
