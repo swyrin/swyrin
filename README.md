@@ -17,9 +17,7 @@ Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much
 
 I used to be a problem setter, here is my first problem (Vietnamese): [click here](https://l.facebook.com/l.php?u=https%3A%2F%2Foj.luyencode.net%2Fproblem%2FTUTHIEN%3Ffbclid%3DIwAR0964heCsb6W1_nZfGbkDqwMhPWw_1Nv59DekOGg-XBVP_fvl4qBLIzNV8&h=AT2I0wZFgE9fqTTAhhHlkyB7-osj-QJhbxwZLRfd_IBxG0WumI9t2qWBzSGWvMjwEj18-XZ1qQhqJdqd2OiVK1ocLVBwx8b2vpUaI1RQOYxj4mB4ptT17IzXUVaW&__tn__=-UK-R&c[0]=AT0rHLTUb9TnO9PwUxBUVClnppnT75gV4bT6lk55CSQGStpctHkIPQDZYvIJELyQ9RdNKp6R2ntlQB8DtZ0pNGvAuCgLdk0kMeZtOCnehFQksxtst0u18kCkfwTuj9FCwAAitFheJ_ZUCtDP8D73rDZ3nfVLXfSvZy7Jq9SnTU41w8evv8k) | [solution by `nvnamson`](https://www.facebook.com/story.php?story_fbid=pfbid02JcgsWY6XFTbRBnWtPBaW4SV7AE5AxVCHpHcqms6mtemDnCtuchBnAo1U4eGWeEa1l&id=100003824621962&mibextid=kdkkhi)
 
-> :warning: The site will be shut down @ 1/6/2023, UTC+7, so better go grab your copy fast.
-
-*Đỗ Tấn Lộc was here.*
+*[Đỗ Tấn Lộc](https://github.com/DTL2k3) was here.*
 
 That's all, good bye!
 
