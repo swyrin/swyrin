@@ -41,14 +41,8 @@ Below is a list of games that I play *regularly*:
 
 <div align="center"><strong><h1>❤️💻 Projects</h1></strong></div>
 
-<div align="center">
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=nameless-on-discord&repo=nameless&theme=tokyonight"></a>
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=dotties&theme=tokyonight"></a>
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=Lilia&theme=tokyonight"></a>
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swyreee&repo=paranormal-maimai&theme=tokyonight"></a>
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nekos-life&repo=Nekos.Net&theme=tokyonight"></a>
-  
-  <i>and more at the pins...</i>
+<div align="center"> 
+  <i>Look at the pins...</i>
 </div>
 
 <div align="center"><strong><h1>📊 Statistics</h1></strong></div>
