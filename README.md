@@ -13,9 +13,11 @@
 
 <div align="center"><strong><h1>👋 Introduction</h1></strong></div>
 
-Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much for looking at this! Used to be a hardcore competitive programmer, now being an `Advent of Code` enjoyer with Rust! I bought a domain for myself, [`swyrin-was-here-and-a.live`]().
+Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much for looking at this! Used to be a hardcore competitive programmer, now being an `Advent of Code` enjoyer with Rust.
 
-I used to be a problem setter, here are my problems (Vietnamese):
+- To people who likes to *correct* me: This happens a lot in my life, especially from an *uneducated* newcomer - If you are a type of poop who enjoys saying "HOLY HELL, WHY ARE YOU WRITING THIS MUCH ADVANCED CODE!!! YOU DON'T EVEN HAVE AN ENTERPRISE LEVEL JOB! STOP DOING IT, WRITE NEWBIE LEVEL CODE, USE CHATGPT PLEASE! I BEG YOU!!!!!!!", sadly I gotta say that I don't care about you, and you just got yourself a slot in my disrepect list. I have started to grow a boredom with these words, for real. Honestly, please, you are just being "skill issue"'d, got that? Stop being a gatekeeper. Get a life. Go outside and touch grass.
+
+I am now an amateur problem setter, here are my problems (Vietnamese):
 
 - [click here](https://oj.luyencode.net/problem/TUTHIEN) | [solution by `nvnamson`](https://www.facebook.com/story.php?story_fbid=pfbid02JcgsWY6XFTbRBnWtPBaW4SV7AE5AxVCHpHcqms6mtemDnCtuchBnAo1U4eGWeEa1l&id=100003824621962&mibextid=kdkkhi)
 - [click here](https://luyencode.net/problem/ro2int) | [solution by myself](https://luyencode.net/problem/ro2int/editorial)
