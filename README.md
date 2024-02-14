@@ -7,6 +7,9 @@
   <a href="https://github.com/nameless-on-discord/nameless"><img src="https://img.shields.io/badge/I%20made-nameless*-ffaf7a?style=for-the-badge&logo=python"></a>
   <a href="https://github.com/Swyreee/dotties"><img src="https://img.shields.io/badge/My%20rice-Arch%20Linux-9cf?style=for-the-badge&logo=archlinux"></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/OwO-What%27s%20this%3F-f0c674?style=for-the-badge&logo=github"></a>
+
+  <p>Join my Discord (<i>we speak Vietnamese btw!</i>)</p>
+  <a href="https://discord.gg/PMVTHDgerp"><img src="https://discord.com/api/guilds/708668574201544745/embed.png?style=banner2"></a>
 </div>
 
 ---------------------------------------------------------
@@ -15,7 +18,8 @@
 
 Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much for looking at this! Used to be a hardcore competitive programmer, now being an `Advent of Code` enjoyer with Rust.
 
-- To people who likes to *correct* me: This happens a lot in my life, especially from an *uneducated* newcomer - If you are a type of poop who enjoys saying "HOLY HELL, WHY ARE YOU WRITING THIS MUCH ADVANCED CODE!!! YOU DON'T EVEN HAVE AN ENTERPRISE LEVEL JOB! STOP DOING IT, WRITE NEWBIE LEVEL CODE, USE CHATGPT PLEASE! I BEG YOU!!!!!!!", sadly I gotta say that I don't care about you, and you just got yourself a slot in my disrepect list. I have started to grow a boredom with these words, for real. Honestly, please, you are just being "skill issue"'d, got that? Stop being a gatekeeper. Get a life. Go outside and touch grass.
+- To people who likes to *correct* me about writing lots of advanced code while I am still in the school:
+  > If you are a piece of *poop* who enjoys saying "WHY ARE YOU WRITING THIS MUCH ADVANCED CODE!!! YOU DON'T EVEN HAVE AN ENTERPRISE LEVEL JOB! STOP DOING IT, WRITE NEWBIE LEVEL CODE, USE CHATGPT PLEASE! I BEG YOU!!!!!!!", well, I gotta say that I don't care about you, and you just got yourself a slot in my blacklist. I have started to grow a boredom with these words, for real. Honestly, please, you are just being "skill issue"'d, got that? Stop being a gatekeeper. Get a life. Go outside and touch grass.
 
 I am now an amateur problem setter, here are my problems (Vietnamese):
 
@@ -36,18 +40,10 @@ That's all, good bye!
 Beside being a programmer, I play games too. I mostly online on Discord (`@swyrin`) so if you want to hit me up for games, feel free to DM me.
 Below is a list of games that I play *regularly*:
 - `Steam` - [https://steamcommunity.com/id/swyrin/](https://steamcommunity.com/id/swyrin/)
-- `Tom Clancy's Rainbow Six: Siege` - [Swyrin](https://ubisoftconnect.com/en-US/profile/Swyrin/)
 - `Arknights` (EN) - **Swyrin#3658**
 - `osu!` - [Swyrin](https://osu.ppy.sh/users/13101472), DM me on Discord if you need mutual.
-- `maimai` (International) - 8090823616521 - I play at [SC Vivo City, District 7, HCMC, Vietnam](https://www.google.com/maps/dir/10.8826392,106.7824432/SC+vivo+city/@10.4318033,106.7907113,10z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x31752f80c3947d97:0x11f8c4c9b629e2cf!2m2!1d106.7033975!2d10.7302321).
-
-<div align="center"><strong><h1>❤️💻 Projects</h1></strong></div>
-
-<div align="center"> 
-  <i>Look at the pins...</i>
-</div>
-
-<div align="center"><strong><h1>📊 Statistics</h1></strong></div>
+- `CHUNITHM` (International) - 8090863711591 
+- `maimai` (International) - 8090823616521
 
 <div align="center">
     <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Swyreee&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"</a>
