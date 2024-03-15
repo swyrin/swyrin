@@ -5,7 +5,7 @@
   </br>
   <!-- badges -->
   <a href="https://github.com/nameless-on-discord/nameless"><img src="https://img.shields.io/badge/I%20made-nameless*-ffaf7a?style=for-the-badge&logo=python"></a>
-  <a href="https://github.com/Swyreee/dotties"><img src="https://img.shields.io/badge/My%20rice-Arch%20Linux-9cf?style=for-the-badge&logo=archlinux"></a>
+  <a href="https://github.com/swyrin/dotties"><img src="https://img.shields.io/badge/My%20rice-Arch%20Linux-9cf?style=for-the-badge&logo=archlinux"></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/OwO-What%27s%20this%3F-f0c674?style=for-the-badge&logo=github"></a>
 
   <p>Join my Discord (<i>we speak Vietnamese btw!</i>)</p>
@@ -17,9 +17,6 @@
 <div align="center"><strong><h1>👋 Introduction</h1></strong></div>
 
 Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much for looking at this! Used to be a hardcore competitive programmer, now being an `Advent of Code` enjoyer with Rust.
-
-- To people who likes to *correct* me about writing lots of advanced code while I am still in the school:
-  > If you are a piece of *poop* who enjoys saying "WHY ARE YOU WRITING THIS MUCH ADVANCED CODE!!! YOU DON'T EVEN HAVE AN ENTERPRISE LEVEL JOB! STOP DOING IT, WRITE NEWBIE LEVEL CODE, USE CHATGPT PLEASE! I BEG YOU!!!!!!!", well, I gotta say that I don't care about you, and you just got yourself a slot in my blacklist. I have started to grow a boredom with these words, for real. Honestly, please, you are just being "skill issue"'d, got that? Stop being a gatekeeper. Get a life. Go outside and touch grass.
 
 I am now an amateur problem setter, here are my problems (Vietnamese):
 
@@ -46,5 +43,5 @@ Below is a list of games that I play *regularly*:
 - `maimai` (International) - 8090823616521
 
 <div align="center">
-    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Swyreee&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"</a>
+    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=swyrin&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"</a>
 </div>
