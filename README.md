@@ -10,27 +10,21 @@
 
   <p>Join my Discord (<i>we speak Vietnamese btw!</i>)</p>
   <a href="https://discord.gg/PMVTHDgerp"><img src="https://discord.com/api/guilds/708668574201544745/embed.png?style=banner2"></a>
-</div>
 
----------------------------------------------------------
+  *[Đỗ Tấn Lộc](https://github.com/DTL2k3) was here.*
+</div>
 
 <div align="center"><strong><h1>👋 Introduction</h1></strong></div>
 
-Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much for looking at this! Used to be a hardcore competitive programmer, now being an `Advent of Code` enjoyer with Rust.
+Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much for looking at this! Used to be a hardcore competitive programmer, now being a casual "Advent of Code" enjoyer with Rust. I mostly active on [**@team-nameless**](https://github.com/team-nameless) organization, so if you like, give it a visit, thank you.
 
-I am now an amateur problem setter, here are my problems (Vietnamese):
+In the past, I have been invited to create some problems for many programming contests, some are hard, some are easy, I don't know.
+- [1](https://oj.luyencode.net/problem/TUTHIEN) | [solution](https://www.facebook.com/story.php?story_fbid=pfbid02JcgsWY6XFTbRBnWtPBaW4SV7AE5AxVCHpHcqms6mtemDnCtuchBnAo1U4eGWeEa1l&id=100003824621962&mibextid=kdkkhi) - deleted.
+- [2](https://luyencode.net/problem/ro2int) | [solution](https://luyencode.net/problem/ro2int/editorial)
+- [3](https://luyencode.net/problem/ltc_1b) | [solution](https://luyencode.net/problem/ltc_1b/editorial)
+- There is more, but per some permission things, I am not allowed to post here. But if you know, you know.
 
-- [click here](https://oj.luyencode.net/problem/TUTHIEN) | [solution by `nvnamson`](https://www.facebook.com/story.php?story_fbid=pfbid02JcgsWY6XFTbRBnWtPBaW4SV7AE5AxVCHpHcqms6mtemDnCtuchBnAo1U4eGWeEa1l&id=100003824621962&mibextid=kdkkhi)
-- [click here](https://luyencode.net/problem/ro2int) | [solution by myself](https://luyencode.net/problem/ro2int/editorial)
-- [click here](https://luyencode.net/problem/ltc_1b) | [solution by myself](https://luyencode.net/problem/ltc_1b/editorial)
-
-*[Đỗ Tấn Lộc](https://github.com/DTL2k3) was here.*
-
-That's all, good bye!
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CF7BC&background=00000092&center=true&vCenter=true&width=435&lines=I+can+use+Python!;I+can+use+Rust!;I+can+use+C%23!;I+can+use+C%2B%2B!;%5Co%2F" alt="Typing SVG" /></a>
-</div>
+About "what thing can you use?", *sighs* 😔: C, [C++](https://leetcode.com/submissions/detail/1074095972/), [C#](https://github.com/swyrin/Lilia), [Rust](https://github.com/team-nameless/crusty-maimai), [Python](https://github.com/team-nameless/nameless-discord-bot), [Unreal Engine 5](https://github.com/swyrin/project-unnamed), [Java](https://github.com/team-nameless/maze-runner), [Bash scripting and Linux system in general](https://github.com/swyrin/dotties), [the legendary fronted trio HTML + CSS](https://github.com/team-nameless/nameless-discord-theme) [+ JavaScript](https://leetcode.com/submissions/detail/599255451/), x86 *Ass*embly, database administration with PostgreSQL, MongoDB and SQLite (no, please no MySQL).
 
 <div align="center"><strong><h1>🎮 Also a gamer</h1></strong></div>
 
