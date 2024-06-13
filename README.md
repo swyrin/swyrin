@@ -29,7 +29,8 @@ About "what thing can you use?", *sighs* 😔: C, [C++](https://leetcode.com/sub
 <div align="center"><strong><h1>🎮 Also a gamer</h1></strong></div>
 
 Beside being a programmer, I play games too. I mostly online on Discord (`@swyrin`) so if you want to hit me up for games, feel free to DM me.
-Below is a list of games that I play *regularly*:
+Below is a list of places where you can see me on the internet:
+- My personal Discord server, listed above.
 - `Steam` - [https://steamcommunity.com/id/swyrin/](https://steamcommunity.com/id/swyrin/)
 - `Arknights` (EN) - **Swyrin#3658**
 - `osu!` - [Swyrin](https://osu.ppy.sh/users/13101472), DM me on Discord if you need mutual.
