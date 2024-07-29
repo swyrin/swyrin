@@ -24,8 +24,6 @@ In the past, I have been invited to create some problems for many programming co
 - [3](https://luyencode.net/problem/ltc_1b) | [solution](https://luyencode.net/problem/ltc_1b/editorial)
 - There is more, but per some permission things, I am not allowed to post here. But if you know, you know.
 
-About "what thing can you use?", *sighs* 😔: C, [C++](https://leetcode.com/submissions/detail/1074095972/), [C#](https://github.com/swyrin/Lilia), [Rust](https://github.com/team-nameless/crusty-maimai), [Python](https://github.com/team-nameless/nameless-discord-bot), [Unreal Engine 5](https://github.com/swyrin/project-unnamed), [Java](https://github.com/team-nameless/maze-runner), [Bash scripting and Linux system in general](https://github.com/swyrin/dotties), [the legendary fronted trio HTML + CSS](https://github.com/team-nameless/nameless-discord-theme) [+ JavaScript](https://leetcode.com/submissions/detail/599255451/), x86 *Ass*embly, database administration with PostgreSQL, MongoDB and SQLite (no, please no MySQL).
-
 <div align="center"><strong><h1>🎮 Also a gamer</h1></strong></div>
 
 Beside being a programmer, I play games too. I mostly online on Discord (`@swyrin`) so if you want to hit me up for games, feel free to DM me.
