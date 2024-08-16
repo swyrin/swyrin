@@ -18,11 +18,7 @@
 
 Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much for looking at this! Used to be a hardcore competitive programmer, now being a casual "Advent of Code" enjoyer with Rust. I mostly active on [**@team-nameless**](https://github.com/team-nameless) organization, so if you like, give it a visit, thank you.
 
-In the past, I have been invited to create some problems for many programming contests, some are hard, some are easy, I don't know.
-- [1](https://oj.luyencode.net/problem/TUTHIEN) | [solution](https://www.facebook.com/story.php?story_fbid=pfbid02JcgsWY6XFTbRBnWtPBaW4SV7AE5AxVCHpHcqms6mtemDnCtuchBnAo1U4eGWeEa1l&id=100003824621962&mibextid=kdkkhi) - deleted.
-- [2](https://luyencode.net/problem/ro2int) | [solution](https://luyencode.net/problem/ro2int/editorial)
-- [3](https://luyencode.net/problem/ltc_1b) | [solution](https://luyencode.net/problem/ltc_1b/editorial)
-- There is more, but per some permission things, I am not allowed to post here. But if you know, you know.
+In the past, I have been invited to create some problems for many programming contests, some are hard, some are easy, I don't know. I have been told not to list them, so if you know you know.  
 
 <div align="center"><strong><h1>🎮 Also a gamer</h1></strong></div>
 
