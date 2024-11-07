@@ -240,13 +240,6 @@ user_pref("gfx.font_rendering.cleartype_params.force_gdi_classic_for_families", 
 user_pref("gfx.font_rendering.cleartype_params.force_gdi_classic_max_size", 6);
 user_pref("gfx.font_rendering.directwrite.use_gdi_table_loading", false);
 
-// PREF: restore login manager
-user_pref("signon.rememberSignons", true);
-
-// PREF: restore address and credit card manager
-user_pref("extensions.formautofill.addresses.enabled", true);
-user_pref("extensions.formautofill.creditCards.enabled", true);
-
 // PREF: restore search engine suggestions
 user_pref("browser.search.suggest.enabled", true);
 
@@ -260,15 +253,22 @@ user_pref("dom.security.https_only_mode_error_page_user_suggestions", true);
 user_pref("network.trr.uri", "https://dns11.quad9.net/dns-query");
 
 // PREF: enforce DNS-over-HTTPS (DoH)
-user_pref("network.trr.mode", 2);
+user_pref("network.trr.mode", 3);
 user_pref("network.trr.max-fails", 5);
 
-// PREF: restore login manager
-user_pref("signon.rememberSignons", true);
+// PREF: disable login manager
+user_pref("signon.rememberSignons", false);
 
-// PREF: restore address and credit card manager
-user_pref("extensions.formautofill.addresses.enabled", true);
-user_pref("extensions.formautofill.creditCards.enabled", true);
+// PREF: disable address and credit card manager
+user_pref("extensions.formautofill.addresses.enabled", false);
+user_pref("extensions.formautofill.creditCards.enabled", false);
+
+// PREF: display the installation prompt for all extensions
+user_pref("extensions.postDownloadThirdPartyPrompt", false);
+
+// PREF: do not allow embedded tweets, Instagram, Reddit, and Tiktok posts
+user_pref("urlclassifier.trackingSkipURLs", "");
+user_pref("urlclassifier.features.socialtracking.skipURLs", "");
 
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
