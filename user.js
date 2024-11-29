@@ -233,6 +233,12 @@ user_pref("layout.word_select.eat_space_to_next_word", false);
 // visit https://github.com/yokoffing/Betterfox/wiki/Optional-Hardening
 // Enter your personal overrides below this line:
 
+// PREF: preferred color scheme for websites and sub-pages
+// 0 = Dark theme
+// 1 = Light theme
+// 2 = match OS theme [Betterfox default]
+user_pref("layout.css.prefers-color-scheme.content-override", 0); 
+
 // PREF: use DirectWrite everywhere like Chrome [WINDOWS]
 user_pref("gfx.font_rendering.cleartype_params.rendering_mode", 5);
 user_pref("gfx.font_rendering.cleartype_params.cleartype_level", 100);
@@ -240,8 +246,8 @@ user_pref("gfx.font_rendering.cleartype_params.force_gdi_classic_for_families", 
 user_pref("gfx.font_rendering.cleartype_params.force_gdi_classic_max_size", 6);
 user_pref("gfx.font_rendering.directwrite.use_gdi_table_loading", false);
 
-// PREF: restore search engine suggestions
-user_pref("browser.search.suggest.enabled", true);
+// PREF: enable container tabs
+user_pref("privacy.userContext.enabled", true);
 
 // PREF: enable HTTPS-Only Mode
 // Warn me before loading sites that don't support HTTPS
@@ -250,10 +256,10 @@ user_pref("dom.security.https_only_mode", true);
 user_pref("dom.security.https_only_mode_error_page_user_suggestions", true);
 
 // PREF: set DoH provider
-user_pref("network.trr.uri", "https://dns11.quad9.net/dns-query");
+user_pref("network.trr.uri", "https://dns.quad9.net/dns-query");
 
 // PREF: enforce DNS-over-HTTPS (DoH)
-user_pref("network.trr.mode", 3);
+user_pref("network.trr.mode", 2);
 user_pref("network.trr.max-fails", 5);
 
 // PREF: disable login manager
@@ -269,10 +275,6 @@ user_pref("extensions.postDownloadThirdPartyPrompt", false);
 // PREF: do not allow embedded tweets, Instagram, Reddit, and Tiktok posts
 user_pref("urlclassifier.trackingSkipURLs", "");
 user_pref("urlclassifier.features.socialtracking.skipURLs", "");
-
-// PREF: enable userChrome.css according to ArkWTF
-user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
-user_pref("svg.context-properties.content.enabled", true);
 
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
