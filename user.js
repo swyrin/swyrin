@@ -259,7 +259,7 @@ user_pref("dom.security.https_only_mode_error_page_user_suggestions", true);
 user_pref("network.trr.uri", "https://dns.quad9.net/dns-query");
 
 // PREF: enforce DNS-over-HTTPS (DoH)
-user_pref("network.trr.mode", 2);
+user_pref("network.trr.mode", 3);
 user_pref("network.trr.max-fails", 5);
 
 // PREF: disable login manager
@@ -275,6 +275,19 @@ user_pref("extensions.postDownloadThirdPartyPrompt", false);
 // PREF: do not allow embedded tweets, Instagram, Reddit, and Tiktok posts
 user_pref("urlclassifier.trackingSkipURLs", "");
 user_pref("urlclassifier.features.socialtracking.skipURLs", "");
+
+// PREF: use DuckDuckGo anywhere, even in Private.
+// PREF: further more, disable the "Private Browsing" split.
+user_pref("browser.search.defaultenginename", "DuckDuckGo");
+user_pref("browser.search.selectedEngine", "DuckDuckGo");
+user_pref("browser.urlbar.placeholderName", "DuckDuckGo");
+user_pref("browser.urlbar.placeholderName.private", "DuckDuckGo");
+user_pref("browser.search.separatePrivateDefault.ui.enabled", false);
+user_pref("browser.search.separatePrivateDefault", false);
+
+// PREF: do not trim URL in the URL bar.
+user_pref("browser.urlbar.trimHttps", false);
+user_pref("browser.urlbar.trimURLs", false);
 
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
