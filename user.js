@@ -259,7 +259,7 @@ user_pref("dom.security.https_only_mode_error_page_user_suggestions", true);
 user_pref("network.trr.uri", "https://dns.quad9.net/dns-query");
 
 // PREF: enforce DNS-over-HTTPS (DoH)
-user_pref("network.trr.mode", 3);
+user_pref("network.trr.mode", 2);
 user_pref("network.trr.max-fails", 5);
 
 // PREF: disable login manager
