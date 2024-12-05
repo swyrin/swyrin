@@ -256,18 +256,24 @@ user_pref("dom.security.https_only_mode", true);
 user_pref("dom.security.https_only_mode_error_page_user_suggestions", true);
 
 // PREF: set DoH provider
-user_pref("network.trr.uri", "https://dns.quad9.net/dns-query");
+user_pref("network.trr.uri", "https://dns.nextdns.io/553799");
 
 // PREF: enforce DNS-over-HTTPS (DoH)
 user_pref("network.trr.mode", 2);
 user_pref("network.trr.max-fails", 5);
 
-// PREF: disable login manager
-user_pref("signon.rememberSignons", false);
+// PREF: restore login manager
+user_pref("signon.rememberSignons", true);
 
-// PREF: disable address and credit card manager
-user_pref("extensions.formautofill.addresses.enabled", false);
-user_pref("extensions.formautofill.creditCards.enabled", false);
+// PREF: restore address and credit card manager
+user_pref("extensions.formautofill.addresses.enabled", true);
+user_pref("extensions.formautofill.creditCards.enabled", true);
+
+// PREF: enable Firefox Sync
+user_pref("identity.fxaccounts.enabled", true);
+
+// PREF: disable the Firefox View tour from popping up
+user_pref("browser.firefox-view.feature-tour", "{\"screen\":\"\",\"complete\":true}");
 
 // PREF: display the installation prompt for all extensions
 user_pref("extensions.postDownloadThirdPartyPrompt", false);
