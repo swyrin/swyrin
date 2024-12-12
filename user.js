@@ -233,12 +233,6 @@ user_pref("layout.word_select.eat_space_to_next_word", false);
 // visit https://github.com/yokoffing/Betterfox/wiki/Optional-Hardening
 // Enter your personal overrides below this line:
 
-// PREF: preferred color scheme for websites and sub-pages
-// 0 = Dark theme
-// 1 = Light theme
-// 2 = match OS theme [Betterfox default]
-user_pref("layout.css.prefers-color-scheme.content-override", 0); 
-
 // PREF: use DirectWrite everywhere like Chrome [WINDOWS]
 user_pref("gfx.font_rendering.cleartype_params.rendering_mode", 5);
 user_pref("gfx.font_rendering.cleartype_params.cleartype_level", 100);
@@ -282,12 +276,18 @@ user_pref("extensions.postDownloadThirdPartyPrompt", false);
 user_pref("urlclassifier.trackingSkipURLs", "");
 user_pref("urlclassifier.features.socialtracking.skipURLs", "");
 
+// PREF: use DuckDuckGo anywhere, even in Private.
+// PREF: further more, disable the "Private Browsing" split.
+user_pref("browser.search.defaultenginename", "DuckDuckGo");
+user_pref("browser.search.selectedEngine", "DuckDuckGo");
+user_pref("browser.urlbar.placeholderName", "DuckDuckGo");
+user_pref("browser.urlbar.placeholderName.private", "DuckDuckGo");
+user_pref("browser.search.separatePrivateDefault.ui.enabled", false);
+user_pref("browser.search.separatePrivateDefault", false);
+
 // PREF: do not trim URL in the URL bar.
 user_pref("browser.urlbar.trimHttps", false);
 user_pref("browser.urlbar.trimURLs", false);
-
-// PREF: restore search engine suggestions
-user_pref("browser.search.suggest.enabled", true);
 
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
