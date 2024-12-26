@@ -275,6 +275,9 @@ user_pref("browser.translations.enable", false);
 user_pref("browser.translations.panelShown", false);
 user_pref("browser.translations.automaticallyPopup", false);
 
+// PREF: enable userChrome.css.
+user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
+
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
 ****************************************************************************/
