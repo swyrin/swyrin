@@ -247,11 +247,11 @@ user_pref("network.trr.mode", 2);
 user_pref("network.trr.max-fails", 5);
 
 // PREF: restore login manager
-user_pref("signon.rememberSignons", true);
+user_pref("signon.rememberSignons", false);
 
 // PREF: restore address and credit card manager
-user_pref("extensions.formautofill.addresses.enabled", true);
-user_pref("extensions.formautofill.creditCards.enabled", true);
+user_pref("extensions.formautofill.addresses.enabled", false);
+user_pref("extensions.formautofill.creditCards.enabled", false);
 
 // PREF: enable Firefox Sync
 user_pref("identity.fxaccounts.enabled", true);
