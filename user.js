@@ -286,6 +286,9 @@ user_pref("zen.urlbar.behavior", "normal");
 // PREF: I use NightTab
 user_pref("browser.newtab.extensionControlled", true);
 
+// PREF: bring Zen new tab to bottom
+user_pref("zen.view.show-newtab-button-top", false);
+
 // PREF: use the same search engine for private.
 user_pref("browser.search.separatePrivateDefault", false);
 
