@@ -233,9 +233,7 @@ user_pref("gfx.font_rendering.directwrite.use_gdi_table_loading", false);
 // PREF: enable container tabs
 user_pref("privacy.userContext.enabled", true);
 
-// PREF: enable HTTPS-Only Mode
-// Warn me before loading sites that don't support HTTPS
-// in both Normal and Private Browsing windows.
+// PREF: enable HTTPS-Only in both Normal and Private windows.
 user_pref("dom.security.https_only_mode", true);
 user_pref("dom.security.https_only_mode_error_page_user_suggestions", true);
 
@@ -276,7 +274,25 @@ user_pref("browser.translations.panelShown", false);
 user_pref("browser.translations.automaticallyPopup", false);
 
 // PREF: enable userChrome.css.
+// Zen already has this as default, but has to fool-proof my stuff I guess?
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
+
+// PREF: put Zen vertical tabs on the right side.
+user_pref("zen.tabs.vertical.right-side", true);
+
+// PREF: disable Zen special URL bar
+user_pref("zen.urlbar.behavior", "normal");
+
+// PREF: I use NightTab
+user_pref("browser.newtab.extensionControlled", true);
+
+// PREF: use the same search engine for private.
+user_pref("browser.search.separatePrivateDefault", false);
+
+// PREF: disable Global Privacy Control and Do Not Track
+// The creator claimed it was a big mistake and makes you more unique.
+user_pref("privacy.globalprivacycontrol.enabled", false);
+user_pref("privacy.donottrackheader.enabled", false);
 
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
