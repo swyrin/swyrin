@@ -286,6 +286,10 @@ user_pref("zen.urlbar.behavior", "normal");
 // PREF: I use NightTab
 user_pref("browser.newtab.extensionControlled", true);
 
+// PREF: Restore Zen old Ctrl+T behavior
+// source: https://www.reddit.com/r/zen_browser/comments/1ikegc3/new_tab_page/
+user_pref("zen.urlbar.replace-newtab", false);
+
 // PREF: bring Zen new tab to bottom
 user_pref("zen.view.show-newtab-button-top", false);
 
