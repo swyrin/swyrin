@@ -32,5 +32,7 @@ Below is a list of places where you can see me on the internet:
 - `maimai` (International) - 8090823616521
 
 <div align="center">
-    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=swyrin&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"</a>
+    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=swyrin&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"></a>
+    <br/>
+    <a href=""><img src="https://skillicons.dev/icons?i=arch,cs,rust,typescript,python,prisma"></a>
 </div>
