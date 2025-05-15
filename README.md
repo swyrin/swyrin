@@ -7,7 +7,7 @@
   <a href="https://github.com/nameless-on-discord/nameless"><img src="https://img.shields.io/badge/I%20made-nameless*-ffaf7a?style=for-the-badge&logo=python"></a>
   <a href="https://github.com/swyrin/dotties"><img src="https://img.shields.io/badge/My%20rice-Arch%20Linux-9cf?style=for-the-badge&logo=archlinux"></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/OwO-What%27s%20this%3F-f0c674?style=for-the-badge&logo=github"></a>
-
+  <p>Foolish curiousity count: 1</p>
   <p>Join my Discord (<i>we speak Vietnamese btw!</i>)</p>
   <a href="https://discord.gg/PMVTHDgerp"><img src="https://discord.com/api/guilds/708668574201544745/embed.png?style=banner2"></a>
 
