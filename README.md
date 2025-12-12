@@ -7,18 +7,16 @@
   <a href="https://github.com/nameless-on-discord/nameless"><img src="https://img.shields.io/badge/I%20made-nameless*-ffaf7a?style=for-the-badge&logo=python"></a>
   <a href="https://github.com/swyrin/dotties"><img src="https://img.shields.io/badge/My%20rice-Arch%20Linux-9cf?style=for-the-badge&logo=archlinux"></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/OwO-What%27s%20this%3F-f0c674?style=for-the-badge&logo=github"></a>
-  <p>Foolish curiousity count: 1</p>
-  <p>Join my Discord (<i>we speak Vietnamese btw!</i>)</p>
-  <a href="https://discord.gg/PMVTHDgerp"><img src="https://discord.com/api/guilds/708668574201544745/embed.png?style=banner2"></a>
-
-  *[Đỗ Tấn Lộc](https://github.com/DTL2k3) was here.*
 </div>
 
 <div align="center"><strong><h1>👋 Introduction</h1></strong></div>
 
-Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much for looking at this! Used to be a hardcore competitive programmer, now being a casual "Advent of Code" enjoyer with Rust. I mostly active on [**@team-nameless**](https://github.com/team-nameless) organization, so if you like, give it a visit, thank you.
+Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much for looking at this! Used to be a hardcore competitive programmer, now being a casual "Advent of Code" enjoyer with Rust. I mostly active on [**@arknights-vns**](https://github.com/arknights-vns) organization, so if you like, give it a visit, thank you.
 
 In the past, I have been invited to create some problems for many programming contests, some are hard, some are easy, I don't know. I have been told not to list them, so if you know you know.  
+
+[To someone](https://github.com/DoTanLoc2003#:~:text=Lastly%2C%20I%E2%80%99m%20truly%20grateful%20to%20have%20you%2C%20Swyrin%20to%20be%20my%20friend.
+), after everything you have done to me, I don't buy it.
 
 <div align="center"><strong><h1>🎮 Also a gamer</h1></strong></div>
 
@@ -27,9 +25,7 @@ Below is a list of places where you can see me on the internet:
 - My personal Discord server, listed above.
 - `Steam` - [https://steamcommunity.com/id/swyrin/](https://steamcommunity.com/id/swyrin/)
 - `Arknights` (EN) - **Swyrin#3658**
-- `osu!` - [Swyrin](https://osu.ppy.sh/users/13101472), DM me on Discord if you need mutual.
-- `CHUNITHM` (International) - 8090863711591 
-- `maimai` (International) - 8090823616521
+- `osu!` - [Swyrin](https://osu.ppy.sh/users/13101472).
 
 <div align="center">
     <a href=""><img src="https://github-readme-stats.vercel.app/api?username=swyrin&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"></a>
