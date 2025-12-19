@@ -15,9 +15,6 @@ Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much
 
 In the past, I have been invited to create some problems for many programming contests, some are hard, some are easy, I don't know. I have been told not to list them, so if you know you know.  
 
-[To someone](https://github.com/DoTanLoc2003#:~:text=Lastly%2C%20I%E2%80%99m%20truly%20grateful%20to%20have%20you%2C%20Swyrin%20to%20be%20my%20friend.
-), after everything you have done to me, I don't buy it.
-
 <div align="center"><strong><h1>🎮 Also a gamer</h1></strong></div>
 
 Beside being a programmer, I play games too. I mostly online on Discord (`@swyrin`) so if you want to hit me up for games, feel free to DM me.
