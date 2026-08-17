@@ -1,31 +1,34 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/41561710/217744926-bd6e5d9a-d94b-406a-bc94-d22b41cf130c.png"><br>
-  <a href="https://www.youtube.com/watch?v=s0K53t4dNyg&t=94s&ab_channel=Silentroom"><i>And in that light, I find deliverance.</i></a></br>
-  <i>- Aegleseeker</i></br>
-  </br>
-  <!-- badges -->
-  <a href="https://github.com/nameless-on-discord/nameless"><img src="https://img.shields.io/badge/I%20made-nameless*-ffaf7a?style=for-the-badge&logo=python"></a>
-  <a href="https://github.com/swyrin/dotties"><img src="https://img.shields.io/badge/My%20rice-Arch%20Linux-9cf?style=for-the-badge&logo=archlinux"></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/OwO-What%27s%20this%3F-f0c674?style=for-the-badge&logo=github"></a>
-</div>
+# Hi there!
 
-<div align="center"><strong><h1>👋 Introduction</h1></strong></div>
+Anyways, name's Phạm Tiến Đạt - ["Phạm" being the family name](https://en.wikipedia.org/wiki/Ph%E1%BA%A1m) - AND obviously a Vietnamese.
 
-Hello, this is me, Phạm Tiến Đạt, and I just *exist*, thank you very much for looking at this! Used to be a hardcore competitive programmer, now being a casual "Advent of Code" enjoyer with Rust. I mostly active on [**@arknights-vns**](https://github.com/arknights-vns) organization, so if you like, give it a visit, thank you.
+## Where to see me?
 
-In the past, I have been invited to create some problems for many programming contests, some are hard, some are easy, I don't know. I have been told not to list them, so if you know you know.  
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/swyrin)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PMVTHDgerp)
 
-<div align="center"><strong><h1>🎮 Also a gamer</h1></strong></div>
+## My (maybe cool) (weaboo) works
 
-Beside being a programmer, I play games too. I mostly online on Discord (`@swyrin`) so if you want to hit me up for games, feel free to DM me.
-Below is a list of places where you can see me on the internet:
-- My personal Discord server, listed above.
-- `Steam` - [https://steamcommunity.com/id/swyrin/](https://steamcommunity.com/id/swyrin/)
-- `Arknights` (EN) - **Swyrin#3658**
-- `osu!` - [Swyrin](https://osu.ppy.sh/users/13101472).
+> Please do not expect these projects to be super serious, but they are worth your time to eyeball.
 
-<div align="center">
-    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=swyrin&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"></a>
-    <br/>
-    <a href=""><img src="https://skillicons.dev/icons?i=arch,cs,rust,typescript,python,prisma"></a>
-</div>
+- I have contributed lots of puzzles for various programming contests, ranging from 800-1200 Codeforces to some weird riddles/ad-hoc ones.
+  - A majority of them are on (the old) [LuyenCode OJ](https://luyencode.net/), and I think they reset their data for good?
+  - But... if you are their Discord member around 2020-2022, you will know me *quite well*. 
+
+- I am the guy behind [Arknights Vietnam Station](https://www.facebook.com/groups/1546174542442137) IT gang, and also being a part of ["being mistreated by the guild owner" gang](https://www.facebook.com/groups/arknights.vietnam.station/permalink/2755145521545027/).
+
+- Made my own an [Advent of Code boilerplate](https://github.com/swyrin/advent-of-code) to fuck-around-and-find-out with Rust's macro black magic.
+
+*More to be added in the future!*
+
+## My code stack
+
+Anything speaks Backend, DevOps, Infra, and Rust!
+
+I sometimes use things speaking Frontend, but apparently I do not like its ecosystem (hint: Vue, React, Angular, Solid, Ember, ... like an entire boatload of [XKCD 927](https://xkcd.com/927/))
+
+## My projects
+
+Too lazy to update this every once in a while, so... see it for yourself? https://github.com/swyrin?tab=repositories
+
+Or well... y'know, the pins below.
