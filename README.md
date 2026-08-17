@@ -17,7 +17,9 @@ Anyways, name's Phạm Tiến Đạt - ["Phạm" being the family name](https://
 
 - I am the guy behind [Arknights Vietnam Station](https://www.facebook.com/groups/1546174542442137) IT gang, and also being a part of ["being mistreated by the guild owner" gang](https://www.facebook.com/groups/arknights.vietnam.station/permalink/2755145521545027/).
 
-- Made my own an [Advent of Code boilerplate](https://github.com/swyrin/advent-of-code) to fuck-around-and-find-out with Rust's macro black magic.
+- Made my own [Advent of Code boilerplate](https://github.com/swyrin/advent-of-code) to fuck-around-and-find-out with Rust's macro black magic.
+
+- Made my own [Turborepo server on Cloudflare Workers](https://github.com/swyrin/turborepo-cfworkers-selfhost) because Vercel cost is no joke.
 
 *More to be added in the future!*
 
